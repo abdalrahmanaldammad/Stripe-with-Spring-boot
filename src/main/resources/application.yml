@@ -1,0 +1,4 @@
+strip:
+  publish_key: ${STRIPE_PUBLISHABLE_KEY}
+  secret_key: ${STRIPE_SECRET_KEY}
+  webhook_secret: ${STRIPE_WEBHOOK_SECRET}
